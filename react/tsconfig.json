@@ -1,11 +1,21 @@
 {
   "extends": "@vtex/tsconfig",
   "compilerOptions": {
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "jsx": "react",
     "noEmitOnError": false,
-    "lib": ["dom"],
+    "typeRoots": ["node_modules/@types"],
+    "types": ["node", "jest"],
     "module": "esnext",
     "moduleResolution": "node",
     "target": "es2017"
   },
-  "include": ["./typings/*.d.ts", "./**/*.tsx", "./**/*.ts"]
+  "include": [
+    "./typings/*.d.ts",
+    "./**/*.tsx",
+    "./**/*.ts",
+    "components/ShelfProductCategory/hooks/useFechMore.tsx",
+    "src/components",
+    "src/custom.d.ts"
+  ]
 }
