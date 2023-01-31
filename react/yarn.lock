@@ -3588,9 +3588,9 @@ lodash@^4.17.15, lodash@^4.17.19:
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.20.tgz#b44a9b6297bcb698f1c51a3545a2b3b368d59c52"
   integrity sha512-PlhdFcillOINfeV7Ni6oF1TAEayyZBoZ8bcshTHqOYJYlrqzRK5hagpagky5o4HfCzzd1TRkXPMFq6cKk9rGmA==
 
-"lojalivreeleve.prize-roulette@https://wanderson--lojalivreeleve.myvtex.com/_v/private/typings/linked/v1/lojalivreeleve.prize-roulette@0.0.0+build1673392395/public/@types/lojalivreeleve.prize-roulette":
+"lojalivreeleve.prize-roulette@https://wanderson--lojalivreeleve.myvtex.com/_v/private/typings/linked/v1/lojalivreeleve.prize-roulette@0.0.0+build1674350422/public/@types/lojalivreeleve.prize-roulette":
   version "0.0.0"
-  resolved "https://wanderson--lojalivreeleve.myvtex.com/_v/private/typings/linked/v1/lojalivreeleve.prize-roulette@0.0.0+build1673392395/public/@types/lojalivreeleve.prize-roulette#6e327f725bacb2bb8bee7408d9ea2b058467c25b"
+  resolved "https://wanderson--lojalivreeleve.myvtex.com/_v/private/typings/linked/v1/lojalivreeleve.prize-roulette@0.0.0+build1674350422/public/@types/lojalivreeleve.prize-roulette#26e7cbad4a999ada125d92962bd7f37b8a596f4a"
 
 lolex@^5.0.0:
   version "5.1.2"
